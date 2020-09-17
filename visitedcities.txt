@@ -1,0 +1,6 @@
+Rapid City|Pennington|SD
+Dallas|Dallas|TX
+Denver|Denver|CO
+Omaha|Douglas|NE
+Fort Collins|Larimer|CO
+Spearfish|Lawrence|SD
